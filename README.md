@@ -8,7 +8,7 @@
        style="heigt : auto; margin-left : 15px; margin-right: 15px;"/>
   
   
-### 🧑‍🤝‍🧑 협업을 즐기는 DevOps engineer 지망생입니다.
+### 🧑‍🤝‍🧑 협업을 즐기는 DevOps Engineer 지망생입니다.
 
   ### 🏃 새로운것을 탐구하는 것을 즐기는 사람입니다.
 
